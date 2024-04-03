@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sim_1/new/sim.v,1712007070,verilog,,,,sim,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/MUXx.v,1711959804,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/TOP.v,,MUXx,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/TOP.v,1711998278,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/crc_calc.v,,TOP,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/crc_calc.v,1712006832,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/ct_BaudRate.v,,crc_calc,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/ct_BaudRate.v,1711957005,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/ct_bitsel1.v,,ct_BaudRate,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/ct_bitsel1.v,1711957094,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/equal.v,,ct_bitsel1,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/equal.v,1711956434,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/equal20b.v,,equal,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/equal20b.v,1711956505,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/reg0.v,,equal20b,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/reg0.v,1711957850,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/toggle_ff.v,,reg0,,,,,,,,
+E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sources_1/new/toggle_ff.v,1712007622,verilog,,E:/Verilog/Pronblema_4_CV_UART- TX module/Pronblema_4_CV_UART- TX module.srcs/sim_1/new/sim.v,,toggle_ff,,,,,,,,
